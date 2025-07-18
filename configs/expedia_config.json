@@ -14,5 +14,13 @@
     "$",
     "nightly",
     "per night"
+  ],
+  "soldOutKeywords": [
+    "sold out",
+    "no availability",
+    "fully booked",
+    "unavailable",
+    "not available",
+    "no rooms left"
   ]
 }
