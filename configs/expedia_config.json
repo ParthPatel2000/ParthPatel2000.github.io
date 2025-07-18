@@ -5,8 +5,10 @@
     ".alternate-price-class"
   ],
   "soldOutSelectors": [
-    ".uitk-text-negative-theme",
-    ".alternate-sold-out-class"
+  ".uitk-text-negative-theme",
+  ".uitk-type-medium.uitk-text-negative-theme",
+  ".uitk-text.uitk-type-300.uitk-text-negative-theme",
+  ".alternate-sold-out-class"
   ],
   "priceKeywords": [
     "$",
