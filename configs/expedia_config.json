@@ -1,26 +1,26 @@
 {
-  "priceSelectors": [
-    ".uitk-text-default-theme",
-    ".uitk-type-300",
-    ".alternate-price-class"
-  ],
-  "soldOutSelectors": [
-  ".uitk-text-negative-theme",
-  ".uitk-type-medium.uitk-text-negative-theme",
-  ".uitk-text.uitk-type-300.uitk-text-negative-theme",
-  ".alternate-sold-out-class"
-  ],
-  "priceKeywords": [
-    "$",
-    "nightly",
-    "per night"
-  ],
-  "soldOutKeywords": [
-    "sold out",
-    "no availability",
-    "fully booked",
-    "unavailable",
-    "not available",
-    "no rooms left"
-  ]
+    "priceSelectors": [
+        ".uitk-text-default-theme",
+        ".uitk-type-300",
+        ".alternate-price-class"
+    ],
+    "soldOutSelectors": [
+        ".uitk-text-negative-theme",
+        ".uitk-type-medium.uitk-text-negative-theme",
+        ".uitk-text.uitk-type-300.uitk-text-negative-theme",
+        ".alternate-sold-out-class"
+    ],
+    "priceKeywords": [
+        "$",
+        "nightly",
+        "per night"
+    ],
+    "soldOutKeywords": [
+        "sold out",
+        "no availability",
+        "fully booked",
+        "unavailable",
+        "not available",
+        "no rooms left"
+    ]
 }
