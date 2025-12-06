@@ -18,4 +18,12 @@ This extension was built for internal use by a small business and respects user 
 
 For questions, contact: arjun.823821@gmail.com
 
-Last updated: 6/25/2025
+Privacy Policy for Choice Advantage Additions & Extensions
+
+Choice Advantage Additions & Extensions does not collect, transmit, or store any personal or customer data outside of your computer. All data used by the extension, including watchlists and guest information, is stored locally in your browser or in CSV files that you can import or export.
+
+The extension’s features, such as DNR/Watchlist panels, reservation copy-paste, stayovers check, and deposit automation, operate entirely within the Choice Advantage interface on your device. No information is sent to any server, third-party service, or cloud storage.
+
+By using this extension, you acknowledge that all data remains local, and no personal or guest information is shared externally.
+
+Last updated: 12/5/2025
